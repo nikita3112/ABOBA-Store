@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ABOBA-Store/static/css/main.a4e7c8c4.css",
+    "main.css": "/ABOBA-Store/static/css/main.74873064.css",
     "main.js": "/ABOBA-Store/static/js/main.ff6c12aa.js",
     "index.html": "/ABOBA-Store/index.html",
-    "main.a4e7c8c4.css.map": "/ABOBA-Store/static/css/main.a4e7c8c4.css.map",
+    "main.74873064.css.map": "/ABOBA-Store/static/css/main.74873064.css.map",
     "main.ff6c12aa.js.map": "/ABOBA-Store/static/js/main.ff6c12aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4e7c8c4.css",
+    "static/css/main.74873064.css",
     "static/js/main.ff6c12aa.js"
   ]
 }
