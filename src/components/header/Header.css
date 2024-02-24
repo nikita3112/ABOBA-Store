@@ -1,0 +1,16 @@
+.header {
+	height: 56px;
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+	background-color: #282c3480;
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.logo {
+	font-size: 25px;
+}
