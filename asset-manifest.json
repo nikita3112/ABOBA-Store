@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ABOBA-Store/static/css/main.2c3b1bb8.css",
+    "main.js": "/ABOBA-Store/static/js/main.6f50b851.js",
+    "index.html": "/ABOBA-Store/index.html",
+    "main.2c3b1bb8.css.map": "/ABOBA-Store/static/css/main.2c3b1bb8.css.map",
+    "main.6f50b851.js.map": "/ABOBA-Store/static/js/main.6f50b851.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3b1bb8.css",
+    "static/js/main.6f50b851.js"
+  ]
+}
